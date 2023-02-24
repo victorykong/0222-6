@@ -1,0 +1,531 @@
+{
+  "BasicModeling": {
+    "theme": "基础建模",
+    "basicData": {
+      "index": "Part 1",
+      "name": "大场景建模渲染",
+      "introduce": "这是一段很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长的文字",
+      "imgUrl": "Personal/BasicModeling/基础建模.png"
+    },
+    "mainData": [
+      {
+        "name": "复古小音响产品渲染",
+        "describe": "项目描述描述a",
+        "imgUrl": "Personal/BasicModeling/复古小音响产品渲染/封面.png"
+      },
+      {
+        "name": "运动鞋产品渲染",
+        "describe": "项目描述描述b",
+        "imgUrl": "Personal/BasicModeling/运动鞋产品渲染/封面.png"
+      }
+    ],
+    "projectData": [
+      {
+        "name": "电子产品建模渲染",
+        "imgUrl": "Personal/BasicModeling/电子产品建模渲染/封面.png"
+      },
+      {
+        "name": "复古键盘建模产品渲染",
+        "imgUrl": "Personal/BasicModeling/复古键盘建模产品渲染/封面.png"
+      },
+      {
+        "name": "显卡建模产品渲染",
+        "imgUrl": "Personal/BasicModeling/显卡建模产品渲染/封面.png"
+      },
+      {
+        "name": "小家电产品建模渲染",
+        "imgUrl": "Personal/BasicModeling/小家电产品建模渲染/封面.png"
+      },
+      {
+        "name": "音响、耳机、手表建模场景渲染",
+        "imgUrl": "Personal/BasicModeling/音响、耳机、手表建模场景渲染/封面.png"
+      },
+      {
+        "name": "游戏手柄产品渲染",
+        "imgUrl": "Personal/BasicModeling/游戏手柄产品渲染/封面.png"
+      }
+    ],
+    "detailsData": [
+      {
+        "name": "电子产品建模渲染",
+        "techniques": "技术1",
+        "introduce": "介绍1",
+        "imgUrl": [
+          "Personal/BasicModeling/电子产品建模渲染/详情/img/详情1.png",
+          "Personal/BasicModeling/电子产品建模渲染/详情/img/详情2.png",
+          "Personal/BasicModeling/电子产品建模渲染/详情/img/详情3.png",
+          "Personal/BasicModeling/电子产品建模渲染/详情/img/详情4.png",
+          "Personal/BasicModeling/电子产品建模渲染/详情/img/详情5.png",
+          "Personal/BasicModeling/电子产品建模渲染/详情/img/详情6.png",
+          "Personal/BasicModeling/电子产品建模渲染/详情/img/详情7.png",
+          "Personal/BasicModeling/电子产品建模渲染/详情/img/详情8.png"
+        ],
+        "videoUrl": ""
+      },
+      {
+        "name": "复古键盘建模产品渲染",
+        "techniques": "技术2",
+        "introduce": "介绍2",
+        "imgUrl": [
+          "Personal/BasicModeling/复古键盘建模产品渲染/详情/img/详情1.png",
+          "Personal/BasicModeling/复古键盘建模产品渲染/详情/img/详情2.png",
+          "Personal/BasicModeling/复古键盘建模产品渲染/详情/img/详情3.png",
+          "Personal/BasicModeling/复古键盘建模产品渲染/详情/img/详情4.png",
+          "Personal/BasicModeling/复古键盘建模产品渲染/详情/img/详情5.png",
+          "Personal/BasicModeling/复古键盘建模产品渲染/详情/img/详情6.png"
+        ],
+        "videoUrl": ""
+      },
+      {
+        "name": "复古小音响产品渲染",
+        "techniques": "技术3",
+        "introduce": "介绍3",
+        "imgUrl": [
+          "Personal/BasicModeling/复古小音响产品渲染/详情/img/详情1.png",
+          "Personal/BasicModeling/复古小音响产品渲染/详情/img/详情2.png",
+          "Personal/BasicModeling/复古小音响产品渲染/详情/img/详情3.png",
+          "Personal/BasicModeling/复古小音响产品渲染/详情/img/详情4.png",
+          "Personal/BasicModeling/复古小音响产品渲染/详情/img/详情5.png",
+          "Personal/BasicModeling/复古小音响产品渲染/详情/img/详情6.png",
+          "Personal/BasicModeling/复古小音响产品渲染/详情/img/详情7.png",
+          "Personal/BasicModeling/复古小音响产品渲染/详情/img/详情8.png",
+          "Personal/BasicModeling/复古小音响产品渲染/详情/img/详情9.png"
+        ],
+        "videoUrl": ""
+      },
+      {
+        "name": "显卡建模产品渲染",
+        "techniques": "技术4",
+        "introduce": "介绍4",
+        "imgUrl": [
+          "Personal/BasicModeling/显卡建模产品渲染/详情/img/详情1.png",
+          "Personal/BasicModeling/显卡建模产品渲染/详情/img/详情2.png",
+          "Personal/BasicModeling/显卡建模产品渲染/详情/img/详情3.png",
+          "Personal/BasicModeling/显卡建模产品渲染/详情/img/详情4.png",
+          "Personal/BasicModeling/显卡建模产品渲染/详情/img/详情5.png",
+          "Personal/BasicModeling/显卡建模产品渲染/详情/img/详情6.png",
+          "Personal/BasicModeling/显卡建模产品渲染/详情/img/详情7.png"
+        ],
+        "videoUrl": ""
+      },
+      {
+        "name": "小家电产品建模渲染",
+        "techniques": "技术5",
+        "introduce": "介绍5",
+        "imgUrl": [
+          "Personal/BasicModeling/小家电产品建模渲染/详情/img/详情1.png",
+          "Personal/BasicModeling/小家电产品建模渲染/详情/img/详情2.png",
+          "Personal/BasicModeling/小家电产品建模渲染/详情/img/详情3.png",
+          "Personal/BasicModeling/小家电产品建模渲染/详情/img/详情4.png",
+          "Personal/BasicModeling/小家电产品建模渲染/详情/img/详情5.png",
+          "Personal/BasicModeling/小家电产品建模渲染/详情/img/详情6.png",
+          "Personal/BasicModeling/小家电产品建模渲染/详情/img/详情7.png",
+          "Personal/BasicModeling/小家电产品建模渲染/详情/img/详情8.png"
+        ],
+        "videoUrl": ""
+      },
+      {
+        "name": "音响、耳机、手表建模场景渲染",
+        "techniques": "技术6",
+        "introduce": "介绍6",
+        "imgUrl": [
+          "Personal/BasicModeling/音响、耳机、手表建模场景渲染/详情/img/详情1.png",
+          "Personal/BasicModeling/音响、耳机、手表建模场景渲染/详情/img/详情2.png",
+          "Personal/BasicModeling/音响、耳机、手表建模场景渲染/详情/img/详情3.png",
+          "Personal/BasicModeling/音响、耳机、手表建模场景渲染/详情/img/详情4.png",
+          "Personal/BasicModeling/音响、耳机、手表建模场景渲染/详情/img/详情5.png",
+          "Personal/BasicModeling/音响、耳机、手表建模场景渲染/详情/img/详情6.png",
+          "Personal/BasicModeling/音响、耳机、手表建模场景渲染/详情/img/详情7.png",
+          "Personal/BasicModeling/音响、耳机、手表建模场景渲染/详情/img/详情8.png"
+        ],
+        "videoUrl": ""
+      },
+      {
+        "name": "游戏手柄产品渲染",
+        "techniques": "技术7",
+        "introduce": "介绍6",
+        "imgUrl": [
+          "Personal/BasicModeling/游戏手柄产品渲染/详情/img/详情1.png",
+          "Personal/BasicModeling/游戏手柄产品渲染/详情/img/详情2.png",
+          "Personal/BasicModeling/游戏手柄产品渲染/详情/img/详情3.png",
+          "Personal/BasicModeling/游戏手柄产品渲染/详情/img/详情4.png",
+          "Personal/BasicModeling/游戏手柄产品渲染/详情/img/详情5.png",
+          "Personal/BasicModeling/游戏手柄产品渲染/详情/img/详情6.png"
+        ],
+        "videoUrl": ""
+      },
+      {
+        "name": "运动鞋产品渲染",
+        "techniques": "技术8",
+        "introduce": "介绍8",
+        "imgUrl": [
+          "Personal/BasicModeling/运动鞋产品渲染/详情/img/详情1.png",
+          "Personal/BasicModeling/运动鞋产品渲染/详情/img/详情2.png",
+          "Personal/BasicModeling/运动鞋产品渲染/详情/img/详情3.png",
+          "Personal/BasicModeling/运动鞋产品渲染/详情/img/详情4.png",
+          "Personal/BasicModeling/运动鞋产品渲染/详情/img/详情5.png",
+          "Personal/BasicModeling/运动鞋产品渲染/详情/img/详情6.png",
+          "Personal/BasicModeling/运动鞋产品渲染/详情/img/详情7.png"
+
+        ],
+        "videoUrl": ""
+      }
+    ]
+  },
+  "CharacterImage": {
+    "theme": "人物形象IP设计",
+    "basicData": {
+      "index": "Part 2",
+      "name": "人物形象IP设计",
+      "introduce": "这是一段很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长的文字",
+      "imgUrl": "Personal/CharacterImage/IP.png"
+    },
+    "mainData": [
+      {
+        "name": "益生菌品牌ip全案",
+        "describe": "项目描述描述a",
+        "imgUrl": "Personal/CharacterImage/益生菌品牌ip全案/封面.png"
+      },
+      {
+        "name": "动漫兔ip形象",
+        "describe": "项目描述描述b",
+        "imgUrl": "Personal/CharacterImage/动漫兔ip形象/封面.png"
+      }
+    ],
+    "projectData": [
+      {
+        "name": "潮玩熊ip形象",
+        "imgUrl": "Personal/CharacterImage/潮玩熊ip形象/封面.png"
+      },
+      {
+        "name": "元宇宙ip形象",
+        "imgUrl": "Personal/CharacterImage/元宇宙ip形象/封面.png"
+      }
+    ],
+    "detailsData": [
+      {
+        "name": "益生菌品牌ip全案",
+        "techniques": "技术1",
+        "introduce": "介绍1",
+        "imgUrl": [
+          "Personal/CharacterImage/益生菌品牌ip全案/详情/img/详情1.png",
+          "Personal/CharacterImage/益生菌品牌ip全案/详情/img/详情2.png",
+          "Personal/CharacterImage/益生菌品牌ip全案/详情/img/详情3.png",
+          "Personal/CharacterImage/益生菌品牌ip全案/详情/img/详情4.png",
+          "Personal/CharacterImage/益生菌品牌ip全案/详情/img/详情5.png",
+          "Personal/CharacterImage/益生菌品牌ip全案/详情/img/详情6.png",
+          "Personal/CharacterImage/益生菌品牌ip全案/详情/img/详情7.png",
+          "Personal/CharacterImage/益生菌品牌ip全案/详情/img/详情8.png",
+          "Personal/CharacterImage/益生菌品牌ip全案/详情/img/详情9.png",
+          "Personal/CharacterImage/益生菌品牌ip全案/详情/img/详情10.png"
+        ],
+        "videoUrl": ""
+      },
+      {
+        "name": "潮玩熊ip形象",
+        "techniques": "技术2",
+        "introduce": "介绍2",
+        "imgUrl": [
+          "Personal/CharacterImage/潮玩熊ip形象/详情/img/详情1.png",
+          "Personal/CharacterImage/潮玩熊ip形象/详情/img/详情2.png",
+          "Personal/CharacterImage/潮玩熊ip形象/详情/img/详情3.png"
+        ],
+        "videoUrl": ""
+      },
+      {
+        "name": "动漫兔ip形象",
+        "techniques": "技术3",
+        "introduce": "介绍3",
+        "imgUrl": [
+          "Personal/CharacterImage/动漫兔ip形象/详情/img/详情1.png",
+          "Personal/CharacterImage/动漫兔ip形象/详情/img/详情2.png",
+          "Personal/CharacterImage/动漫兔ip形象/详情/img/详情3.png",
+          "Personal/CharacterImage/动漫兔ip形象/详情/img/详情4.png",
+          "Personal/CharacterImage/动漫兔ip形象/详情/img/详情5.png",
+          "Personal/CharacterImage/动漫兔ip形象/详情/img/详情6.png",
+          "Personal/CharacterImage/动漫兔ip形象/详情/img/详情7.png"
+        ],
+        "videoUrl": ""
+      },
+      {
+        "name": "元宇宙ip形象",
+        "techniques": "技术4",
+        "introduce": "介绍4",
+        "imgUrl": [
+          "Personal/CharacterImage/元宇宙ip形象/详情/img/详情1.png",
+          "Personal/CharacterImage/元宇宙ip形象/详情/img/详情2.png",
+          "Personal/CharacterImage/元宇宙ip形象/详情/img/详情3.png"
+        ],
+        "videoUrl": ""
+      }
+    ]
+  },
+  "DynamicDesign": {
+    "theme": "动效设计",
+    "basicData": {
+      "index": "Part 3",
+      "name": "动效设计",
+      "introduce": "这是一段很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长的文字",
+      "imgUrl": "Personal/DynamicDesign/动效设计.png"
+    },
+    "mainData": [
+      {
+        "name": "iPhone14防摔手机壳",
+        "describe": "项目描述描述a",
+        "imgUrl": "Personal/DynamicDesign/iPhone14防摔手机壳/封面.png"
+      },
+      {
+        "name": "拳头联名运动手表",
+        "describe": "项目描述描述b",
+        "imgUrl": "Personal/DynamicDesign/拳头联名运动手表/封面.png"
+      }
+    ],
+    "projectData": [
+      {
+        "name": "手机壳&钢化膜",
+        "imgUrl": "Personal/DynamicDesign/手机壳&钢化膜/封面.png"
+      },
+      {
+        "name": "ipad平板保护壳",
+        "imgUrl": "Personal/DynamicDesign/ipad平板保护壳/封面.png"
+      },
+      {
+        "name": "项目名称3",
+        "imgUrl": "Personal/DynamicDesign/动效设计.png"
+      },
+      {
+        "name": "项目名称4",
+        "imgUrl": "Personal/DynamicDesign/动效设计.png"
+      },
+      {
+        "name": "项目名称5",
+        "imgUrl": "Personal/DynamicDesign/动效设计.png"
+      },
+      {
+        "name": "项目名称6",
+        "imgUrl": "Personal/DynamicDesign/动效设计.png"
+      },
+      {
+        "name": "项目名称7",
+        "imgUrl": "Personal/DynamicDesign/动效设计.png"
+      }
+    ],
+    "detailsData": [
+      {
+        "name": "iPhone14防摔手机壳",
+        "techniques": "技术1",
+        "introduce": "介绍1",
+        "imgUrl": [
+          "Personal/DynamicDesign/iPhone14防摔手机壳/详情/img/详情1.png",
+          "Personal/DynamicDesign/iPhone14防摔手机壳/详情/img/详情2.png",
+          "Personal/DynamicDesign/iPhone14防摔手机壳/详情/img/详情3.png",
+          "Personal/DynamicDesign/iPhone14防摔手机壳/详情/img/详情4.png",
+          "Personal/DynamicDesign/iPhone14防摔手机壳/详情/img/详情5.png",
+          "Personal/DynamicDesign/iPhone14防摔手机壳/详情/img/详情6.png"
+        ],
+        "videoUrl": "Personal/DynamicDesign/iPhone14防摔手机壳/详情/video/视频.mp4"
+      },
+      {
+        "name": "拳头联名运动手表",
+        "techniques": "技术2",
+        "introduce": "介绍2",
+        "imgUrl": [
+          "Personal/DynamicDesign/拳头联名运动手表/详情/img/详情1.png",
+          "Personal/DynamicDesign/拳头联名运动手表/详情/img/详情2.png",
+          "Personal/DynamicDesign/拳头联名运动手表/详情/img/详情3.png",
+          "Personal/DynamicDesign/拳头联名运动手表/详情/img/详情4.png",
+          "Personal/DynamicDesign/拳头联名运动手表/详情/img/详情5.png",
+          "Personal/DynamicDesign/拳头联名运动手表/详情/img/详情6.png",
+          "Personal/DynamicDesign/拳头联名运动手表/详情/img/详情7.png",
+          "Personal/DynamicDesign/拳头联名运动手表/详情/img/详情8.png"
+        ],
+        "videoUrl": "Personal/DynamicDesign/拳头联名运动手表/详情/video/视频.mp4"
+      },
+      {
+        "name": "手机壳&钢化膜",
+        "techniques": "技术3",
+        "introduce": "介绍3",
+        "imgUrl": [
+          "Personal/DynamicDesign/手机壳&钢化膜/详情/img/详情1.png",
+          "Personal/DynamicDesign/手机壳&钢化膜/详情/img/详情2.png",
+          "Personal/DynamicDesign/手机壳&钢化膜/详情/img/详情3.png",
+          "Personal/DynamicDesign/手机壳&钢化膜/详情/img/详情4.png",
+          "Personal/DynamicDesign/手机壳&钢化膜/详情/img/详情5.png",
+          "Personal/DynamicDesign/手机壳&钢化膜/详情/img/详情6.png",
+          "Personal/DynamicDesign/手机壳&钢化膜/详情/img/详情7.png",
+          "Personal/DynamicDesign/手机壳&钢化膜/详情/img/详情8.png"
+        ],
+        "videoUrl": "Personal/DynamicDesign/手机壳&钢化膜/详情/video/视频.mp4"
+      },
+      {
+        "name": "ipad平板保护壳",
+        "techniques": "技术4",
+        "introduce": "介绍4",
+        "imgUrl": [
+          "Personal/DynamicDesign/ipad平板保护壳/详情/img/详情1.png",
+          "Personal/DynamicDesign/ipad平板保护壳/详情/img/详情2.png",
+          "Personal/DynamicDesign/ipad平板保护壳/详情/img/详情3.png",
+          "Personal/DynamicDesign/ipad平板保护壳/详情/img/详情4.png",
+          "Personal/DynamicDesign/ipad平板保护壳/详情/img/详情5.png",
+          "Personal/DynamicDesign/ipad平板保护壳/详情/img/详情6.png",
+          "Personal/DynamicDesign/ipad平板保护壳/详情/img/详情7.png",
+          "Personal/DynamicDesign/ipad平板保护壳/详情/img/详情8.png"
+        ],
+        "videoUrl": "Personal/DynamicDesign/ipad平板保护壳/详情/video/视频.mp4"
+      },
+      {
+        "name": "项目名称5",
+        "techniques": "技术5",
+        "introduce": "介绍5",
+        "imgUrl": [
+          "Personal/DynamicDesign/动效设计.png",
+          "Personal/DynamicDesign/动效设计.png"
+        ],
+        "videoUrl": "Personal/DynamicDesign/video.mp4"
+      },
+      {
+        "name": "项目名称6",
+        "techniques": "技术6",
+        "introduce": "介绍6",
+        "imgUrl": [
+          "Personal/DynamicDesign/动效设计.png",
+          "Personal/DynamicDesign/动效设计.png"
+        ],
+        "videoUrl": "Personal/DynamicDesign/video.mp4"
+      },
+      {
+        "name": "项目名称7",
+        "techniques": "技术7",
+        "introduce": "介绍6",
+        "imgUrl": [
+          "Personal/DynamicDesign/动效设计.png",
+          "Personal/DynamicDesign/动效设计.png"
+        ],
+        "videoUrl": "Personal/DynamicDesign/video.mp4"
+      }
+    ]
+  },
+  "Environmental": {
+    "theme": "环境设计",
+    "basicData": {
+      "index": "Part 4",
+      "name": "环境设计",
+      "introduce": "这是一段很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长的文字",
+      "imgUrl": "Personal/Environmental/环境设计.jpg"
+    },
+    "mainData": [
+      {
+        "name": "项目名称a",
+        "describe": "项目描述描述a",
+        "imgUrl": "Personal/Environmental/环境设计.jpg"
+      },
+      {
+        "name": "项目名称b",
+        "describe": "项目描述描述b",
+        "imgUrl": "Personal/Environmental/环境设计.jpg"
+      }
+    ],
+    "projectData": [
+      {
+        "name": "项目名称1",
+        "imgUrl": "Personal/Environmental/环境设计.jpg"
+      },
+      {
+        "name": "项目名称2",
+        "imgUrl": "Personal/Environmental/环境设计.jpg"
+      },
+      {
+        "name": "项目名称3",
+        "imgUrl": "Personal/Environmental/环境设计.jpg"
+      },
+      {
+        "name": "项目名称4",
+        "imgUrl": "Personal/Environmental/环境设计.jpg"
+      },
+      {
+        "name": "项目名称5",
+        "imgUrl": "Personal/Environmental/环境设计.jpg"
+      },
+      {
+        "name": "项目名称6",
+        "imgUrl": "Personal/Environmental/环境设计.jpg"
+      },
+      {
+        "name": "项目名称7",
+        "imgUrl": "Personal/Environmental/环境设计.jpg"
+      }
+    ],
+    "detailsData": [
+      {
+        "name": "项目名称1",
+        "techniques": "技术1",
+        "introduce": "介绍1",
+        "imgUrl": [
+          "Personal/Environmental/环境设计.jpg",
+          "Personal/Environmental/环境设计.jpg"
+        ],
+        "videoUrl": ""
+      },
+      {
+        "name": "项目名称2",
+        "techniques": "技术2",
+        "introduce": "介绍2",
+        "imgUrl": [
+          "Personal/Environmental/环境设计.jpg",
+          "Personal/Environmental/环境设计.jpg"
+        ],
+        "videoUrl": ""
+      },
+      {
+        "name": "项目名称3",
+        "techniques": "技术3",
+        "introduce": "介绍3",
+        "imgUrl": [
+          "Personal/Environmental/环境设计.jpg",
+          "Personal/Environmental/环境设计.jpg"
+        ],
+        "videoUrl": ""
+      },
+      {
+        "name": "项目名称4",
+        "techniques": "技术4",
+        "introduce": "介绍4",
+        "imgUrl": [
+          "Personal/Environmental/环境设计.jpg",
+          "Personal/Environmental/环境设计.jpg"
+        ],
+        "videoUrl": ""
+      },
+      {
+        "name": "项目名称5",
+        "techniques": "技术5",
+        "introduce": "介绍5",
+        "imgUrl": [
+          "Personal/Environmental/环境设计.jpg",
+          "Personal/Environmental/环境设计.jpg"
+        ],
+        "videoUrl": ""
+      },
+      {
+        "name": "项目名称6",
+        "techniques": "技术6",
+        "introduce": "介绍6",
+        "imgUrl": [
+          "Personal/Environmental/环境设计.jpg",
+          "Personal/Environmental/环境设计.jpg"
+        ],
+        "videoUrl": ""
+      },
+      {
+        "name": "项目名称7",
+        "techniques": "技术7",
+        "introduce": "介绍6",
+        "imgUrl": [
+          "Personal/Environmental/环境设计.jpg",
+          "Personal/Environmental/环境设计.jpg"
+        ],
+        "videoUrl": ""
+      }
+    ]
+  }
+}
